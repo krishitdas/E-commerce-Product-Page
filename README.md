@@ -82,8 +82,7 @@ The CSS file styles the e-commerce page with a focus on responsiveness, visual a
 The JavaScript file adds interactivity to the image gallery, allowing users to click on thumbnails and navigate through images using next and previous buttons. Key functionalities include:
 
 - **Thumbnail Click Event**: Updates the main image based on the clicked thumbnail.
-- **Next/Previous Buttons**: Cycles through the images in the gallery.
-
+- 
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are welcome.
