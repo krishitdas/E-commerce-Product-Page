@@ -32,24 +32,6 @@ The e-commerce product page includes:
 - **CSS**: Styling of the webpage for a polished and responsive design.
 - **JavaScript**: Interactivity for the image gallery.
 
-## Setup Instructions
-
-To view or use the e-commerce product page locally, follow these steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/e-commerce-product-page.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd e-commerce-product-page
-    ```
-
-3. **Open the `index.html` file in your web browser**:
-    - You can double-click the `index.html` file.
-    - Or, open it with a live server in your code editor (e.g., VSCode).
-
 ## File Structure
 e-commerce-product-page/
 │
